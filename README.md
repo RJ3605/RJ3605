@@ -5,7 +5,7 @@ I'm a Front End Developer that enjoys coding. I love learning new things and cha
 
 🔗 Connect with me
 
-[![image]([https://www.freeiconspng.com/img/2037])](https://www.linkedin.com/in/ronald-sayre-iii-a89b7516a/)
+[![image]([[https://www.freeiconspng.com/img/2037](https://camo.githubusercontent.com/0f56393c2fe76a2cd803ead7e5508f916eb5f1e62358226112e98f7e933301d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6162656c436f6c6f723d626c7565)])](https://www.linkedin.com/in/ronald-sayre-iii-a89b7516a/)
 
 👨‍💻 Currently all my projects are located on this github!
 
