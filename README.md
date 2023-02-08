@@ -5,6 +5,8 @@ I'm a Front End Developer that enjoys coding. I love learning new things and cha
 
 🔗 Connect with me
 
+![image]([https://www.freeiconspng.com/img/2037])([https://www.linkedin.com/in/ronald-sayre-iii-a89b7516a/])
+
 👨‍💻 Currently all my projects are located on this github!
 
 📫 The best way to reach me is by email at ronaldjamessayreiii@gmail.com
