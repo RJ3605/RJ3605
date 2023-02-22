@@ -13,7 +13,8 @@ I'm a Front End Developer that enjoys coding. I love learning new things and cha
 
 📄 Please feel free to ask me anything. I'm always looking to network and learn!
 
-🛠 Languages and Tools
+🛠 Languages and Tools:
+
 HTML
 
 CSS
