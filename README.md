@@ -1,6 +1,6 @@
 Hey there, I'm Ronald Sayre (he/him/his)
 
-🚀 Summary
+🚀 Summary:
 I'm a Front End Developer that enjoys coding. I love learning new things and challenging myself. Plus, front end development gives me a chance to express my artistic side while also creating useful webpages that satisfy my left brain. The best part of coding has to be the wide variety of applications it can be used for. From business to engineering to role playing games, there's something for everyone!
 
 🔗 Connect with me
