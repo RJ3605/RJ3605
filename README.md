@@ -15,6 +15,9 @@ I'm a Front End Developer that enjoys coding. I love learning new things and cha
 
 🛠 Languages and Tools
 HTML
+
 CSS
+
 JavaScript : Tailwind, React, Node.js
-Java (just starting)
+
+Java: (just starting)
